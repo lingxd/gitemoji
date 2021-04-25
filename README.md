@@ -1,6 +1,6 @@
 # gitemoji
-Github 上 emoji 表情的含义及使用规范
 
+Github 上 emoji 表情的含义及使用规范
 
 :art: - 改进结构和代码格式
 
